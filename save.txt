@@ -1,0 +1,8 @@
+Monster has killed the hero previously
+Hero KEN has killed a monster and gained 3 stars.
+Monster has killed the hero previously
+Hero Ken has killed a monster and gained 3 stars.
+Hero MKAK has killed a monster and gained 1 stars.
+Hero MKAK has killed a monster and gained 1 stars.
+Hero MKAK has killed a monster and gained 1 stars.
+Hero MKAK has killed a monster and gained 2 stars.
