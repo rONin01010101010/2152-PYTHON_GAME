@@ -432,6 +432,7 @@ def generate_inventory(player_level):
         if possible_items:
             new_item = random.choice(possible_items)
             inventory.append(new_item)
+            
     
     print(f"    |    Starting inventory: {inventory}")
     return {"items": inventory, "capacity": max_capacity}

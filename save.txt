@@ -6,3 +6,4 @@ Hero MKAK has killed a monster and gained 1 stars.
 Hero MKAK has killed a monster and gained 1 stars.
 Hero MKAK has killed a monster and gained 1 stars.
 Hero MKAK has killed a monster and gained 2 stars.
+Monster has killed the hero previously
